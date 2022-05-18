@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/JAVA21-Advanced-Javascript-Slutproject-Nenad-Sekulic/static/css/main.57d51521.chunk.css",
+    "main.js": "/JAVA21-Advanced-Javascript-Slutproject-Nenad-Sekulic/static/js/main.1746caba.chunk.js",
+    "main.js.map": "/JAVA21-Advanced-Javascript-Slutproject-Nenad-Sekulic/static/js/main.1746caba.chunk.js.map",
+    "runtime-main.js": "/JAVA21-Advanced-Javascript-Slutproject-Nenad-Sekulic/static/js/runtime-main.1d75323b.js",
+    "runtime-main.js.map": "/JAVA21-Advanced-Javascript-Slutproject-Nenad-Sekulic/static/js/runtime-main.1d75323b.js.map",
+    "static/js/2.75d4c256.chunk.js": "/JAVA21-Advanced-Javascript-Slutproject-Nenad-Sekulic/static/js/2.75d4c256.chunk.js",
+    "static/js/2.75d4c256.chunk.js.map": "/JAVA21-Advanced-Javascript-Slutproject-Nenad-Sekulic/static/js/2.75d4c256.chunk.js.map",
+    "index.html": "/JAVA21-Advanced-Javascript-Slutproject-Nenad-Sekulic/index.html",
+    "static/css/main.57d51521.chunk.css.map": "/JAVA21-Advanced-Javascript-Slutproject-Nenad-Sekulic/static/css/main.57d51521.chunk.css.map",
+    "static/js/2.75d4c256.chunk.js.LICENSE.txt": "/JAVA21-Advanced-Javascript-Slutproject-Nenad-Sekulic/static/js/2.75d4c256.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d75323b.js",
+    "static/js/2.75d4c256.chunk.js",
+    "static/css/main.57d51521.chunk.css",
+    "static/js/main.1746caba.chunk.js"
+  ]
+}
