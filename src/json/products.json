@@ -1,0 +1,81 @@
+[
+  {
+    "name": "vlad",
+    "productType": "poster",
+    "price": 1000,
+    "desc": "Russia's action man president.",
+    "quantity": "1"
+  },
+  {
+    "name": "joe",
+    "productType": "poster",
+    "price": 665,
+    "desc": "He doesn't know where he parked the car .",
+    "quantity": "1"
+  },
+  {
+    "name": "trump",
+    "productType": "poster",
+    "price": 300,
+    "desc": "The real American cowboy.",
+    "quantity": "1"
+  },
+  {
+    "name": "lofven",
+    "productType": "poster",
+    "price": 449,
+    "desc": "Stefan in the war for the vots.",
+    "quantity": "1"
+  },
+  {
+    "name": "magdalena",
+    "productType": "poster",
+    "price": 279,
+    "desc": "Swedish wanna be iron lady'.",
+    "quantity": "1"
+  },
+  {
+    "name": "silvio",
+    "productType": "poster",
+    "price": 300,
+    "desc": "The king of bunga bunga'.",
+    "quantity": "1"
+  },
+  {
+    "name": "boris",
+    "productType": "poster",
+    "price": 279,
+    "desc": "Joyful old chap'.",
+    "quantity": "1"
+  },
+  {
+    "name": "olof",
+    "productType": "poster",
+    "price": 279,
+    "desc": "The good old days'.",
+    "quantity": "1"
+  },
+  {
+    "name": "kimjong",
+    "productType": "poster",
+    "price": 399,
+    "desc": "No description needed",
+    "quantity": "1"
+  },
+
+  {
+    "name": "xi",
+    "productType": "poster",
+    "price": 500,
+    "desc": "Made in...'.",
+    "quantity": "1"
+  },
+  {
+    "name": "churchil",
+    "productType": "poster",
+    "price": 3000,
+    "desc": "The good old days II.",
+    "quantity": "1"
+  }
+  
+]
